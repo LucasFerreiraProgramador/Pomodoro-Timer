@@ -9,7 +9,7 @@ Um cronômetro Pomodoro moderno, personalizável e focado em produtividade, dese
 ### Funcionalidades Implementadas
 
 - ✅ **Ciclos Personalizáveis**: Configure tempos de foco, descanso curto e descanso longo.
-- ✅ **Notificações Sonoras**: Alertas sonoros ao final de cada ciclo para manter o foco.
+- ✅ **Notificações Sonoras**: Alertas sonoros ao final de cada ciclo para manter o foco. 
 - ✅ **Interface Dark Mode**: Design escuro nativo para reduzir o cansaço visual.
 - ✅ **Progress Tracking**: Visualização clara do progresso atual do ciclo.
 - ✅ **Design Responsivo**: Experiência otimizada para mobile, tablet e desktop.
