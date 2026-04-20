@@ -18,7 +18,7 @@ Um cronômetro Pomodoro moderno, personalizável e focado em produtividade, dese
 
 ## 🚀 Como Executar
 
-### Pré-requisitos                                 
+### Pré-requisitos                                                                                                         
 
 - Node.js 18+ instalado
 - npm ou pnpm como gerenciador de pacotes
